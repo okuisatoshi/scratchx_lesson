@@ -1,3 +1,5 @@
+// Sample taken from https://github.com/LLK/scratchx/wiki
+
 (function(ext) {
     // Cleanup function when the extension is unloaded
     ext._shutdown = function() {};

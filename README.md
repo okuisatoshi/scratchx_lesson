@@ -1,7 +1,7 @@
-# ScrathX Sample Project
+# ScratchX Sample Project
 
 For trying out this sample, 
-go to http://scratchx.org/?url=https://okuisatoshi.github.io/scratchx_lesson/src/sample.js#scratch
+see http://scratchx.org/?url=https://okuisatoshi.github.io/scratchx_lesson/src/sample.js#scratch
 via web browser. 
 
 Alternatively, we might want to prepare your own local server. 
@@ -13,9 +13,9 @@ $ npm install
 $ npm start
 ```
 
-Then go to http://scratchx.org/?url=http://localhost:8080/sample.js#scratch via web browser.   
+Then see http://scratchx.org/?url=http://localhost:8080/sample.js#scratch via web browser.   
 
-Thanks to http://qiita.com/mironal/items/99779c4d307fb004bee7
+Thanks to http://qiita.com/mironal/items/99779c4d307fb004bee7.
 
  
 
